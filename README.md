@@ -119,13 +119,6 @@ Gemini API by Google is subject to its own [terms of service](https://ai.google.
 
 ```
 
----
 
-Let me know if you want:
-- A deployed link badge (Streamlit Cloud)
-- A `requirements.txt` file
-- Screenshots or GIFs added in the README
-
-I'm happy to help!
 ```
 
